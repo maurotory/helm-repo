@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-01-04T14:39:12.916834859+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 38ea85bb526e35b9e0926db86ec784d39df53d675c70f1a76a248cba92ca9d64
+    name: test
+    type: application
+    urls:
+    - https://maurotory.github.io/helm-repo/test-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-01-04T14:39:12.91601532+01:00"
