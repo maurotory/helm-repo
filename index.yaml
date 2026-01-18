@@ -3,7 +3,17 @@ entries:
   busybox:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-01-18T12:05:42.86816+01:00"
+    created: "2026-01-18T12:35:08.406523+01:00"
+    description: A busybox Helm chart with preeinstalled packages and non-root user
+    digest: 6fa6b85d0604e7a430388d007915fe4b4d31647882b2deabee2b397bc4f0ce4b
+    name: busybox
+    type: application
+    urls:
+    - https://maurotory.github.io/helm-repo/busybox-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-01-18T12:35:08.406171+01:00"
     description: A busybox Helm chart with preeinstalled packages and non-root user
     digest: 3721c27f95fc6809454c4728be68c6d83f3ab06418089cd4793d2f8ff83e3a66
     name: busybox
@@ -14,7 +24,7 @@ entries:
   test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-18T12:05:42.868395+01:00"
+    created: "2026-01-18T12:35:08.407158+01:00"
     description: A Helm chart for Kubernetes
     digest: 38ea85bb526e35b9e0926db86ec784d39df53d675c70f1a76a248cba92ca9d64
     name: test
@@ -22,4 +32,4 @@ entries:
     urls:
     - https://maurotory.github.io/helm-repo/test-0.1.0.tgz
     version: 0.1.0
-generated: "2026-01-18T12:05:42.867675+01:00"
+generated: "2026-01-18T12:35:08.405513+01:00"
